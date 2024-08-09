@@ -4,7 +4,8 @@
 
 ### Who am I?
 
-I am a software developer and current Computer Science undergraduate with a passion for technology and a strong background in various programming languages. I have a keen interest in solving complex problems and am passionate about exploring areas like artificial intelligence and machine learning. Actively seeking opportunities to gain hands-on experience through internships and projects, I am eager to contribute to innovative tech solutions and collaborate with industry professionals. Let's connect to share knowledge and explore opportunities in the tech world!
+I am a current computer science undergraduate with a strong background in Java and C# programming. Experienced in designing and implementing software applications using Spring Boot and .NET frameworks. I am passionate about solving complex problems and learning industry best practices. And I’m seeking opportunities to gain hands-on experience through internships and projects and to collaborate with industry professionals.
+
 
 ⚡ Fun fact: I am addicted to watching movies and TV series.
 
